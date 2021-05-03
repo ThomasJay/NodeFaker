@@ -1,0 +1,23 @@
+{
+  "name": "nodefaker",
+  "version": "1.0.0",
+  "description": "Creates logs of seed data",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThomasJay/NodeFaker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ThomasJay/NodeFaker/issues"
+  },
+  "homepage": "https://github.com/ThomasJay/NodeFaker#readme",
+  "dependencies": {
+    "faker": "^5.5.3",
+    "uuid": "^8.3.2"
+  }
+}
